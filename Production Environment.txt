@@ -1,0 +1,1 @@
+# Docker deploymentnpm run docker:buildnpm run docker:up# Or manual deploymentnpm run build# Deploy to AWS/Azure/Google Cloud
